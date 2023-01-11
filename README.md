@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://www.bing.com/images/search?view=detailV2&ccid=dAuDqKLg&id=14EB37755426BFFB12132B89BD943CD63D569019&thid=OIP.dAuDqKLg40RUKsiOqL5iLAHaEO&mediaurl=https%3a%2f%2fblog.hcltechsw.com%2fwp-content%2fuploads%2f2020%2f06%2fiot_1.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.740b83a8a2e0e344542ac88ea8be622c%3frik%3dGZBWPdY8lL2JKw%26pid%3dImgRaw%26r%3d0&exph=400&expw=700&q=embedded+system+gif&simid=608038597948747990&FORM=IRPRST&ck=26FEEA5F32083B0BDECAA5D8712DBB0D&selectedIndex=5&ajaxhist=0&ajaxserp=0)](https://www.linkedin.com/in/zeyad-gebril/)
 <h1 align="center">Hi 👋, I'm Zeyad Gebril</h1>
 <h3 align="center">A passionate Embedded System Engineer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.81178b47a8598f0c81c4799f2cdd4057?rik=5cuVK%2bfI%2bsPqqw&pid=ImgRaw&r=0">
